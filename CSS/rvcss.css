@@ -99,8 +99,43 @@
 		padding-top: 7px;
 		
     }
+	
+.compartir {
+	
+		max-height: 150px;
+		margin-bottom: 20px;
+}
+
+.quienes {
+	
+		margin-left: 40%;
+		margin-bottom: 50px;
+		font-size: 50px;
+}
  
+.somos {
+	
+		margin-left: 4%;
+		font-size: 20px;
+		margin-bottom: 20px;
+}
  
+.palabra {
+	
+		margin-left: 30px;
+}
+
+.bienvenido {
+	
+		margin-bottom: 20px;
+		
+}
+
+.vuelta {
+	
+		margin-top: 20px;
+		margin-left: 20px;
+}
  
   
   
